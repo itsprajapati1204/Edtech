@@ -1,0 +1,29 @@
+body{
+  background-color: #F8F3EF;
+}
+#root {
+  max-width: 1480px;
+  margin: 0;
+  padding:0 5rem;
+
+}
+
+.navbar{
+  border-bottom: 2px solid rgb(233, 228, 228);
+}
+
+.stick{
+  font-size: 5rem;
+}
+.stick2{
+  font-size: 5rem;
+  position: relative;
+  top: -80;
+}
+.imgstick{
+  background-color: yellow;
+  z-index: -2;
+  position: relative;
+  top: 0;
+  left:-80%;
+}
