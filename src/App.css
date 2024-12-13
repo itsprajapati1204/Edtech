@@ -2,9 +2,9 @@ body{
   background-color: #F8F3EF;
 }
 #root {
-  max-width: 1480px;
+  max-width: 1580px;
   margin: 0;
-  padding:0 5rem;
+  padding:0 3rem 0 8rem;
 
 }
 
